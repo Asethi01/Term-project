@@ -18,4 +18,4 @@ Click [Tutorial video](https://drive.google.com/file/d/1RJxhp7MZN3YNnGgMEelxOWU2
 
 # Attribution
 
-Thank you to [Genius](https://docs.genius.com) for providing the lyricsgenius package and to [NLTK](https://www.nltk.org) for providing the Sentiment Intensity Analyzer.
+Thank you to [johnwmllr](https://github.com/johnwmillr/LyricsGenius) for providing the lyricsgenius package and to [NLTK](https://www.nltk.org) for providing the Sentiment Intensity Analyzer.
