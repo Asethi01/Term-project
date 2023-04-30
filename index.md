@@ -12,6 +12,8 @@ Yes, but NLTK Sentiment Analysis can also accomplish this, by scanning the lyric
 
 We are extremely proud of the work that we completed and are really excited for you to explore this project and use it for your Spotify playlist creation endevours.
 
+Download our code [here](https://github.com/Asethi01/Term-project)
+
 # Video Exhibit
 
 Click [Tutorial video](https://drive.google.com/file/d/1RJxhp7MZN3YNnGgMEelxOWU2YdqNVvS-/view?ts=644d9632) to watch John use the code and display how the code works. Maybe you can find some new music through this video too!
