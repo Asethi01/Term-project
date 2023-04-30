@@ -2,7 +2,6 @@ import lyricsgenius
 
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
-import re
 
 genius = lyricsgenius.Genius(
     "X5pP_hoFlaaLtLhQPeTOK6vq7nETrfo1JzQ9B4DLZVIMpY0Lw8Nup28dQwiDTEmY"
@@ -101,7 +100,7 @@ def plyrics(happy,sad):
             if title.lower() not in happy:
                 print("The song you chose is not in your chosen playlist\n")
             else:
-                print(f'The lyrics to {title} are {happy[title.lower()]}\n')
+                print(f'The lyrics to {title} are:\n {happy[title.lower()]}\n')
         elif playlist.lower()=="sad":
             if title.lower() not in sad: 
                 print("The song you chose is not in your chosen playlist\n")
